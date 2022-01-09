@@ -1,9 +1,8 @@
-C:\Users\Dan Roe\source\repos\WordleSolver\bin\Debug\WordleSolver.exe.config
-C:\Users\Dan Roe\source\repos\WordleSolver\bin\Debug\WordleSolver.exe
-C:\Users\Dan Roe\source\repos\WordleSolver\bin\Debug\WordleSolver.pdb
-C:\Users\Dan Roe\source\repos\WordleSolver\obj\Debug\WordleSolver.csprojAssemblyReference.cache
 C:\Users\Dan Roe\source\repos\WordleSolver\obj\Debug\WordleSolver.Properties.Resources.resources
 C:\Users\Dan Roe\source\repos\WordleSolver\obj\Debug\WordleSolver.csproj.GenerateResource.cache
 C:\Users\Dan Roe\source\repos\WordleSolver\obj\Debug\WordleSolver.csproj.CoreCompileInputs.cache
+C:\Users\Dan Roe\source\repos\WordleSolver\WordleSolver.exe.config
 C:\Users\Dan Roe\source\repos\WordleSolver\obj\Debug\WordleSolver.exe
 C:\Users\Dan Roe\source\repos\WordleSolver\obj\Debug\WordleSolver.pdb
+C:\Users\Dan Roe\source\repos\WordleSolver\WordleSolver.exe
+C:\Users\Dan Roe\source\repos\WordleSolver\WordleSolver.pdb
